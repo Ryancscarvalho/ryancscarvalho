@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ryan Cavalcante
 
-Me chamo Ryan Cavalcante, tenho 18 anos. No momento estou cursando Ciência da Computação na Uninassau. Apaixonado por tecnlogia desde pequeno e sempre com o desejo de aprender mais.
+Me chamo Ryan Cavalcante, tenho 18 anos e atualmente curso Ciência da Computação na Uninassau. Sou apaixonado por tecnologia desde cedo e estou sempre em busca de novos conhecimentos, com grande interesse em aprendizado contínuo e desenvolvimento na área.
 
 ---
 
